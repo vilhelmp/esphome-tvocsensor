@@ -1,0 +1,12 @@
+title: How to build a TVOC sensor for ESPHome
+description: A short how to for building a TVOC sensor using the ENS160+AHT210 sensor
+
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+  - jekyll-relative-links
+  - jekyll-remote-theme
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
